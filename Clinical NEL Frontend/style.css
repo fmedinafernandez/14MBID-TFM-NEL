@@ -1,0 +1,221 @@
+﻿
+/*This code was written by: Winmister332, On 3/35/16 at 6:56PM if you copy this code to your site please leave this comment, just cause it took a while to write and debug this entire code. Otherwise this code is free to use by the public! :D !*/
+
+* {
+    user-drag: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -moz-user-drag: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background-color: rgb(231, 81, 19);
+  }
+  
+  .header {
+    margin-top: 50px;
+  }
+  
+  /*Site Logo is for the logo IMG tag do not add if you do not wish to use the IMG logo!*/
+  
+  .sitelogo {
+    height: auto;
+    width: auto;
+    margin: 0 auto;
+    color: white;
+  }
+  
+  .sitedata {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  }
+  .sitedata thead tr {
+    background-color: rgb(161,161,161);
+    color: black;
+    text-align: left;
+  }
+  
+  .sitedata th,
+  .sitedata td {
+    padding: 12px 15px;
+  }
+  
+  .sitedata tbody tr {
+    border-bottom: 1px solid #dddddd;
+    background-color: #f3f3f3;
+  }
+  
+  .sitedata tbody tr:nth-of-type(even) {
+    color: black;
+    background-color: rgb(220,220,220);
+  }
+  
+  .sitedata tbody tr:last-of-type {
+    border-bottom: 2px solid rgb(161,161,161);
+  }
+  
+  .sitedata tbody tr.active-row {
+    font-weight: bold;
+    color: rgb(136,97,184);
+  }
+  
+  /*Site Logo is for the logo IMG tag do not add if you do not wish to use the IMG logo!*/
+  
+  .sitelogo img {
+    height: inherit;
+    width: inherit;
+  }
+  
+  .navbar {
+    top: 0;
+    bottom: 10;
+    background-color: white;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    border-bottom: 2px solid #4d4d4d;
+    /*margin-left: 150px;*/
+  }
+  
+  .navbar ul {
+    /*margin-left: 120px;*/
+  }
+  
+  .navbar ul li {
+    float: left;
+    list-style-type: none;
+    width: 100px;
+    text-align: center;
+  }
+  
+  .navbar ul li a {
+    position: RELATIVE;
+    text-decoration: none;
+    color: black;
+    line-height: 50px;
+    display: block;
+  }
+  
+  a:hover:not(.active):not(#reflink) {
+    background-color: rgb(231, 81, 19);
+    color: white;
+  }
+  
+  .active {
+    background-color: orange;
+  }
+  
+  .dropdown {
+    position: static;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: static;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    padding: 12px 16px;
+    z-index: 4;
+  }
+  
+  /*.dropdown-content:hover + #reflink {
+  border-bottom: 2px solid green;
+  color: blue;
+  background-color: green;
+  }*/
+  
+  .dropdown:hover + #reflink {
+    color: blue;
+    background-color: green;
+    border-bottom: 1px solid gold;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .newsblock {
+    width: 100%;
+    /*add 1410x3000 to have the frame cover the entire site if you wish to use 1410x3000 its WIDTHxHEIGHT !!!*/
+    height: 500px;
+    border: 5px solid white;
+  }
+  
+  iframe {
+    width: inherit;
+    height: inherit;
+  }
+  
+  form {
+  }
+  
+  #searchbtn {
+    margin-left: 684px;
+    padding: 8px 15px;
+    background: rgba(50, 50, 50, 0.2);
+    border: 2px solid #207cca;
+  }
+  
+  #searchbtn {
+    margin-top: 11px;
+    position: absolute;
+    padding: 6px 15px;
+    left: -8px;
+    background-color: #207cca;
+    color: #fafafa;
+  }
+  
+  #searchbtn:hover {
+    color: white;
+    background-color: #155084;
+    border: 2px solid #155084;
+  }
+  
+  #searchbox {
+    margin-top: 11px;
+    padding: 8px 15px;
+    /*background:rgba(50, 50, 50, 0.2);*/
+    border: 2px solid #207cca;
+  }
+  
+  #searchbox {
+    margin-left: 520px;
+    position: absolute;
+    padding: 6px 15px;
+    left: -8px;
+  }
+  
+  /*#searchbtn:hover  {
+                background-color:#fafafa;
+                color:#207cca;
+  }
+  */
+  
+  ::-webkit-input-placeholder {
+    /* For WebKit browsers */
+    color: #dd3333;
+    font-family: Helvetica Neue;
+    font-weight: bold;
+  }
+  
+  :-moz-placeholder {
+    /* For Mozilla Firefox 4 to 18 */
+    color: #dd3333;
+    font-family: Helvetica Neue;
+    font-weight: bold;
+  }
+  
+  :-ms-input-placeholder {
+    /* For Internet Explorer 10+ */
+    color: #dd3333;
+    font-family: Helvetica Neue;
+    font-weight: bold;
+  }

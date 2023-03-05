@@ -1,0 +1,87 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <script src="index.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+</head>
+<body>
+
+
+
+
+    
+
+
+
+    <!--This code was written by: Winmister332, On 3/35/16 at 6:56PM if you copy this code to your site please leave this comment, just cause it took a while to write and debug this entire code. Otherwise this code is free to use by the public! :D !-->
+
+
+
+
+
+    <center>
+        <header class="header">
+            <input type="hidden" id="hiddentoken" />
+            <div id="nav_bar" class="navbar">
+                <ul>
+                    <li>
+                        <a id="menuInicio" class="blockline" onclick="self.inicio_onclick()">Inicio</a>
+                    </li>
+                    <li class="dropdown">
+                        <a id="menuInformes" class="blockline">Informes</a>
+                        <div class="dropborder">
+                            <ul>
+                                <li class="dropdown-content">
+                                    <a id="mail" onclick="self.new_informes_onclick()">Nuevo Informe</a>
+                                </li>
+                                <li class="dropdown-content">
+                                    <a id="skype" onclick="self.query_informes_onclick()">Consulta de Informes</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="dropdown">
+                        <a id="menuTerminologia" class="blockline">Terminologia</a>
+                        <div class="dropborder">
+                            <ul>
+                                <li class="dropdown-content">
+                                    <a id="mail" onclick="self.new_termin_onclick()">Nuevo Termino</a>
+                                </li>
+                                <li class="dropdown-content">
+                                    <a id="skype" onclick="self.query_terminos_onclick()">Consulta de Terminos</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a id="menuAcercaDe" onclick="self.acercade_onclick()">Acerca de</a></li>
+                    <form>
+                        <!--input id="searchbox"
+                               type="text"
+                               placeholder="Buscar..."
+                               required /><input id="searchbtn" type="button" value="Buscar" /-->
+                    </form>
+                </ul>
+            </div>
+        </header>
+        <div id="sitelogo" class="sitelogo">
+            <h1></h1>
+            <h1>CLINICAL NEL ENGINE</h1>
+            <!--<img src="assets/Logo.png" />-->
+
+        </div>
+        <div id="sitedata" class="sitelogo">
+
+            
+        </div>
+        <pre id="json" class="sitelogo">
+
+        </pre>
+ 
+        
+
+    </center>
+    
+
+</body>
+</html>
