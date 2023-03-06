@@ -8588,3 +8588,473 @@ id,idreport,idtermino,termino,cosine_similarity,source_text
 1945,es-S2254-28842014000300010-1,94360002,"metástasis renal",0.917659,"Insuficiencia renal"
 1945,es-S2254-28842014000300010-1,473392002,nefroangiosclerosis,1,nefroangiosclerosis
 1945,es-S2254-28842014000300010-1,15555002,"pericarditis aguda",0.907655,"agudo miocardio"
+1946,S0004-06142005000500011-1,73211009,Diabetes,1,Diabetes
+1946,S0004-06142005000500011-1,443416007,adenoma,1,adenoma
+1946,S0004-06142005000500011-1,21173002,"adenoma prostático",0.936875,"adenoma prostata"
+1946,S0004-06142005000500011-1,106190000,alergias,1,alergia
+1946,S0004-06142005000500011-1,416098002+414285001,"alergias conocidas a medicamentos ni a alimentos",0.922132,"jubilado alergia medicamentos conocido"
+1946,S0004-06142005000500011-1,283083003,"arañazos en mano",0.957305,"Dupuytren mano"
+1946,S0004-06142005000500011-1,699699005,"cambios degenerativos en columna",1,"cambio degenerativo columna"
+1946,S0004-06142005000500011-1,722688002,carcinoma,1,carcinoma
+1946,S0004-06142005000500011-1,255109008,"carcinoma papilar urotelial de vejiga",0.913472,"carcinoma urotelial superficial vejigar"
+1946,S0004-06142005000500011-1,126491004,"carcinoma sebáceo",0.912236,"anatomopatologico carcinoma"
+1946,S0004-06142005000500011-1,370992007,"dislipemia tipo II",0.955641,"tipo II hipercolesterolemia"
+1946,S0004-06142005000500011-1,34000006,"enfermedad de Crohn",0.948492,"enfermedad Dupuytren"
+1946,S0004-06142005000500011-1,72704001,fractura,1,fractura
+1946,S0004-06142005000500011-1,400178008,"linfangioma renal bilateral",0.93009,"renal bilateral calcificacion"
+1946,S0004-06142005000500011-1,254828009,"liposarcoma de bajo grado",0.95292,"grado I"
+1946,S0004-06142005000500011-1,94360002,"metástasis renal",0.905853,"hepatico renal"
+1946,S0004-06142005000500011-1,125599006,"traumatismo contundente en mano izquierda en hiperextensión",0.912348,"mano derecho by-pass iliofemoral izquierdo"
+1947,S0004-06142005000700014-1,30664006,"MEN 1",0.974325,"Estreptomicina 1"
+1947,S0004-06142005000700014-1,372244006,MM,1,mm
+1947,S0004-06142005000700014-1,75702008,brucelosis,1,brucelosis
+1947,S0004-06142005000700014-1,69322001,"cuadro alucinatorio-delirante",0.956359,"cuadro orquiepididimiti"
+1947,S0004-06142005000700014-1,248325000,malnutrición,0.930577,nutricion
+1947,S0004-06142005000700014-1,197983000,orquiepididimitis,1,orquiepididimiti
+1947,S0004-06142005000700014-1,198002008+72829003,"orquiepididimitis secundaria a Brucella",1,"orquiepididimiti secundario Brucella"
+1947,S0004-06142005000700014-1,36319009+168276008,"serología positiva VJC",0.915876,"positivo Brucella Serologias"
+1947,S0004-06142005000700014-1,128060009,varices,1,variz
+1948,S0004-06142005000900013-1,372244006,MM,1,mm
+1948,S0004-06142005000900013-1,443416007,adenoma,1,adenoma
+1948,S0004-06142005000900013-1,21173002,"adenoma prostático",1,"adenoma prostatico"
+1948,S0004-06142005000900013-1,783184003,"cistopatía incrustante",1,"cistopatir incrustante"
+1948,S0004-06142005000900013-1,146801000119103,"leiomioma vesical",1,"leiomioma vesical"
+1948,S0004-06142005000900013-1,36699003,"pared vesical anterior, con abscesificación",0.936118,"localizado pared vesical"
+1949,S0004-06142005000900014-1,428090004,"fuera de orificio ureteral dos pequeñas lesiones sobreelevadas",1,"orificio ureteral pequeño lesion sobreelevado"
+1949,S0004-06142005000900014-1,53298000,"hematuria autolimitada",1,"hematuria autolimitado"
+1949,S0004-06142005000900014-1,146801000119103,"leiomioma vesical",1,"leiomioma vesical"
+1949,S0004-06142005000900014-1,157670007,lesiones,1,lesion
+1949,S0004-06142005000900014-1,247441003,"lesiones eritema-escamosas",0.9524,"RTU lesion"
+1949,S0004-06142005000900014-1,300457003,"lesiones vesicales macroscópicamente",0.969541,"RTU lesion vesical"
+1949,S0004-06142005000900014-1,708039003,"lesión inflamatoria",1,"lesion inflamatorio"
+1949,S0004-06142005000900014-1,92069005,"lesión mixoide",0.926409,"lesion proliferacion"
+1949,S0004-06142005000900014-1,6574001,"lesión necrótica",0.919864,"recidivo lesion"
+1949,S0004-06142005000900014-1,56208002,"lesión ulcerada",0.934909,"lesion sobreelevado"
+1950,S0004-06142005000900015-1,61860000,PCT,0.999325,CT
+1950,S0004-06142005000900015-1,127154008,"afectación retroperitoneal",1,"afectacion retroperitoneal"
+1950,S0004-06142005000900015-1,1495041000004108,"proliferación neoplásica",1,"proliferacion neoplasico"
+1950,S0004-06142005000900015-1,721574009,"rabdomiosarcoma pleomórfico del cordón espermático",1,"rabdomiosarcoma pleomorfico cordon espermatico"
+1950,S0004-06142005000900015-1,25173007,"recidivas tumorales",1,"recidivo tumoral"
+1950,S0004-06142005000900015-1,713277006,"tumor odontogénico queratoquístico",0.903135,"diagnostico tumor paratesticular"
+1950,S0004-06142005000900015-1,281591005,"tumor paratesticular",1,"tumor paratesticular"
+1951,S0004-06142005000900016-1,7093002,"crisis renoureteral",1,"crisis renoureteral"
+1951,S0004-06142005000900016-1,197820003,"ectasia pielocalicial renal",0.969643,"ectasio pielocalicial renal"
+1951,S0004-06142005000900016-1,41368006,"estenosis de la vía urinaria",1,"estenosis via urinario"
+1951,S0004-06142005000900016-1,36388008,"estenosis en la unión pieloureteral",1,"estenosis union pieloureteral"
+1951,S0004-06142005000900016-1,68566005,"infecciones del tracto urinario",1,"infeccion tracto urinario"
+1951,S0004-06142005000900016-1,94360002,"metástasis renal",0.909882,"pielocalicial renal"
+1951,S0004-06142005000900016-1,95570007,nefrolitiasis,1,nefrolitiasis
+1951,S0004-06142005000900016-1,51868009,"ulcus duodenal",1,"ulcus duodenal"
+1951,S0004-06142005000900016-1,416824008,"vía urinaria descubre un hemangioma cavernoso",1,"via urinario descubrir hemangioma cavernoso"
+1952,S0004-06142005001000011-1,73795002,"IAM inferior",0.996322,"inferior EEII"
+1952,S0004-06142005001000011-1,128825002,"LMC BCR-ABL positivo",0.967905,"PCR positivo htlv-i"
+1952,S0004-06142005001000011-1,30664006,"MEN 1",0.95252,"prednisona 1"
+1952,S0004-06142005001000011-1,449710006,"celulitis en extremidad inferior",0.934322,"extremidad inferior EEII"
+1952,S0004-06142005001000011-1,204878001,criptorquidia,1,criptorquidia
+1952,S0004-06142005001000011-1,268228006,"criptorquídia bilateral",1,"criptorquidia bilateral"
+1952,S0004-06142005001000011-1,69322001,"cuadro alucinatorio-delirante",0.910918,"cuadro urgencia"
+1952,S0004-06142005001000011-1,370992007,"dislipemia tipo II",0.985206,"dislipemia tipo II"
+1952,S0004-06142005001000011-1,398991009,"déficit motor",1,"deficit motor"
+1952,S0004-06142005001000011-1,414545008,"enfermedad coronaria",1,"enfermedad coronario"
+1952,S0004-06142005001000011-1,236403004,"glomeruloesclerosis focal y segmentaria",0.979788,"esclerosis focal segmentario"
+1952,S0004-06142005001000011-1,236407003,"glomerulonefritis tipo IgA con esclerosis focal y segmentaria",1,"glomerulonefritis tipo iga esclerosis focal segmentario"
+1952,S0004-06142005001000011-1,116669003,"iridofacodonesis bilateral",0.917726,"bilateral amigdalectomizado"
+1952,S0004-06142005001000011-1,157670007,lesiones,1,lesion
+1952,S0004-06142005001000011-1,118940003,"lesiones a nivel cerebral o espinal",1,"lesion nivel cerebral espinal"
+1952,S0004-06142005001000011-1,33431000119109,"lesiones a nivel orofaríngeo",0.914062,"lesion nivel cerebral"
+1952,S0004-06142005001000011-1,125281004,"linfangiectasia focal",0.909672,"esclerosis focal"
+1952,S0004-06142005001000011-1,197794008,"litiasis coraliforme",0.902266,"hiperreflexico litiasis"
+1952,S0004-06142005001000011-1,70650003,"litiasis vesical",1,"litiasis vesical"
+1952,S0004-06142005001000011-1,13124004,"líquido ascítico",0.900287,"liquido cefalorraquideo"
+1952,S0004-06142005001000011-1,1845001,paraparesia,1,paraparesia
+1952,S0004-06142005001000011-1,714279000,"paraparesia espástica tropical",1,"paraparesia espastico tropical"
+1952,S0004-06142005001000011-1,423716004,"petequias en la fosa antecubital derecha",0.92625,"izquierdo fosa iliaco derecho"
+1952,S0004-06142005001000011-1,26522000,"rechazo agudo del injerto",1,"injerto rechazo agudo"
+1952,S0004-06142005001000011-1,5112009,"vejiga hiperrefléxica",1,"vejiga hiperreflexico"
+1953,S0004-06142005001000011-3,17709002,"HDA secundaria a varices esofágicas",1,"HDA secundario variz esofagico"
+1953,S0004-06142005001000011-3,233838001,"IAM posterior",0.994815,"posterior LCR"
+1953,S0004-06142005001000011-3,33595009,"QA frontal",0.920071,"frontal parietal"
+1953,S0004-06142005001000011-3,15704361000119102,"amioatrofia por desuso de EEII",0.9533,"amioatrofio desuso EEII"
+1953,S0004-06142005001000011-3,425558002,"azoospermia completa",0.905437,"paraplejiar completo"
+1953,S0004-06142005001000011-3,831000119103,"cirrosis por VHC",0.90683,"1978 cirrosis"
+1953,S0004-06142005001000011-3,303082009,"gastropatía de hipertensión portal",0.907027,"hipertension portal ascitis"
+1953,S0004-06142005001000011-3,713181003,"hepatópata crónico de origen enólico",0.914186,"hepatico probable origen alcoholico"
+1953,S0004-06142005001000011-3,397974008+32696007,"hipoestesia subjetiva mayor en EID con nivel D8-D10",0.998987,"hipoestesia subjetivo EID nivel D8-D10"
+1953,S0004-06142005001000011-3,157670007,lesiones,1,lesion
+1953,S0004-06142005001000011-3,23414001,"lesiones desmielinizantes",0.909978,"lesion hiperintensar"
+1953,S0004-06142005001000011-3,1156035006,"lesiones hiperintensa lagunares supratentoriales",0.992533,"lesion hiperintensar lagunar supratentorial"
+1953,S0004-06142005001000011-3,254828009,"liposarcoma de bajo grado",0.952903,"grado II"
+1953,S0004-06142005001000011-3,1845001,paraparesia,1,paraparesia
+1953,S0004-06142005001000011-3,714279000,"paraparesia espástica tropical",1,"paraparesia espastico tropical"
+1953,S0004-06142005001000011-3,128060009,varices,1,variz
+1954,S0004-06142005001000016-1,65626001,"hernia inguinal indirecta",0.92879,"hernia inguinal reductible"
+1954,S0004-06142005001000016-1,410070006,"porción herniada de la vejiga",1,"porcion herniado vejiga"
+1954,S0004-06142005001000016-1,416991005,"síndrome obstructivo infravesical",1,"sindrome obstructivo infravesical"
+1954,S0004-06142005001000016-1,27078002,"tumoración sólido-quística",0.900417,"infravesical tumoracion"
+1955,S0004-06142006000200001-1,69322001,"cuadro alucinatorio-delirante",0.911655,"cuadro adherencial"
+1955,S0004-06142006000200001-1,16834011000119109,"cuadros suboclusivos",0.900399,"pelvico cuadro"
+1955,S0004-06142006000200001-1,26681001,"focos endometriósicos pélvicos",1,"foco endometriosico pelvico"
+1955,S0004-06142006000200001-1,84089009,"hernia de hiato",1,"hernia hiato"
+1955,S0004-06142006000200001-1,118948005,"patología a nivel de órganos abdominales",1,"patologia nivel organo abdominal"
+1956,S0004-06142006000200011-1,372244006,MM,1,mm
+1956,S0004-06142006000200011-1,428823006,"fumador habitual de marihuana",1,"fumador habitual marihuana"
+1956,S0004-06142006000200011-1,157670007,lesiones,1,lesion
+1956,S0004-06142006000200011-1,247441003,"lesiones eritema-escamosas",0.931007,"exeresis lesion"
+1956,S0004-06142006000200011-1,300492006,"lesión en polo superior de testículo",0.924729,"clivaje polo superior testiculo"
+1956,S0004-06142006000200011-1,237783006,"suprarrenal derecha, evidenciándose una voluminosa tumoración",0.907214,"testiculo izquierdo apreciar tumoracion consistenciar"
+1956,S0004-06142006000200011-1,254831005,"tumor adiposo",0.902154,"tumor fibroso"
+1956,S0004-06142006000200011-1,128736003,"tumor fibroso solitario de la túnica vaginal",1,"tumor fibroso solitario tunica vaginal"
+1956,S0004-06142006000200011-1,123843001,"tumor ovárico",0.903234,"quirurgico tumor"
+1957,S0004-06142006000200013-1,722688002,carcinoma,1,carcinoma
+1957,S0004-06142006000200013-1,448864006,"carcinoma ureteral",1,"carcinoma ureteral"
+1957,S0004-06142006000200013-1,705066004,"disección traumática de la arteria carótida interna derecha",0.938869,"salida teorico arteria iliaco interno izquierdo"
+1957,S0004-06142006000200013-1,129103003+87953007,"endometriosis ureteral intrínseca",1,"endometriosis ureteral intrinseco"
+1957,S0004-06142006000200013-1,53298000,"hematuria autolimitada",0.901595,"repetido hematuria"
+1957,S0004-06142006000200013-1,157670007,lesiones,1,lesion
+1957,S0004-06142006000200013-1,247441003,"lesiones eritema-escamosas",0.928224,"enucleacion lesion"
+1957,S0004-06142006000200013-1,55342001,"masa tumoral",1,"masa tumoral"
+1957,S0004-06142006000200013-1,233964008,"oclusión de la arteria carótida interna derecha",0.918483,"teorico arteria iliaco interno izquierdo"
+1957,S0004-06142006000200013-1,197659005,"riñón izquierdo atrófico",1,"riñon izquierdo atrofico"
+1958,S0004-06142006000200014-1,300444006,"Dilatación de riñón",0.910362,"riñon diseccion"
+1958,S0004-06142006000200014-1,94185003,"invasión de vía biliar",0.906494,"compresion via excretoro"
+1958,S0004-06142006000200014-1,55342001,"masa tumoral",1,"masa tumoral"
+1958,S0004-06142006000200014-1,187144000,"quiste hidatídico renal",0.960223,"quiste renal complicado"
+1958,S0004-06142006000200014-1,86463003,"quiste renal multilocular",0.934335,"sugerir quiste renal"
+1958,S0004-06142006000200014-1,448128007,"trombo tumoral en una vena",1,"trombo tumoral vena"
+1958,S0004-06142006000200014-1,15842009,"trombo tumoral en vena renal",1,"trombo tumoral vena renal"
+1958,S0004-06142006000200014-1,281595001+15842009,"trombosis de la vena renal y vena cava inferior",0.929164,"evidenciar trombo tumoral vena renal cava"
+1958,S0004-06142006000200014-1,442078001,"trombosis tumoral",0.901055,"trombo tumoral"
+1959,S0004-06142006000300015-1,722688002,carcinoma,1,carcinoma
+1959,S0004-06142006000300015-1,255035007,"carcinoma adrenal",0.90278,"renal carcinoma"
+1959,S0004-06142006000300015-1,278411006,"carcinoma de células escamosas intraóseo moderadamente diferenciado",0.901372,"carcinoma celulo transicional grado intenso diferenciacion"
+1959,S0004-06142006000300015-1,27090000,"carcinoma de células transicionales",1,"carcinoma celulo transicional"
+1959,S0004-06142006000300015-1,128668003,"carcinoma sarcomatoide renal",0.962343,"renal carcinoma coloide"
+1959,S0004-06142006000300015-1,281860005,"hematuria recidivante",1,"hematuria recidivante"
+1959,S0004-06142006000300015-1,157670007,lesiones,1,lesion
+1959,S0004-06142006000300015-1,301863008,"lesión cavitada",0.929081,"lesion constituido"
+1959,S0004-06142006000300015-1,92069005,"lesión mixoide",0.906253,"lesion heterogeneo"
+1959,S0004-06142006000300015-1,254828009,"liposarcoma de bajo grado",0.921109,"transicional grado"
+1959,S0004-06142006000300015-1,386103008,"litiasis renal de repetición",1,"litiasis renal repeticion"
+1959,S0004-06142006000300015-1,254915003,"metástasis de carcinoma de células claras",0.921821,"diagnostico carcinoma celulo"
+1959,S0004-06142006000300015-1,702392008,"metástasis de carcinoma renal",0.935447,"pelvis renal carcinoma"
+1959,S0004-06142006000300015-1,94360002,"metástasis renal",0.911983,"litiasis renal"
+1959,S0004-06142006000300015-1,118287003,"urotelial de la neoplasia",1,"urotelial neoplasia"
+1960,S0004-06142006000500002-4,421689001,"alteración del EPR",0.903258,"alteracion exploracion"
+1960,S0004-06142006000500002-4,26681001,"focos endometriósicos pélvicos",0.925433,"mitotico foco necrosis"
+1960,S0004-06142006000500002-4,26614003,hidrocele,1,hidrocele
+1960,S0004-06142006000500002-4,301913002,"lesión de pequeño tamaño en el párpado superior derecho",0.904087,"derecho lateralizado tamaño hemiescroto izquierdo epididimo"
+1960,S0004-06142006000500002-4,197983000,orquiepididimitis,1,orquiepididimiti
+1960,S0004-06142006000500002-4,10194007+236768005,"orquiepididimitis crónica",1,"orquiepididimiti cronico"
+1960,S0004-06142006000500002-4,77870005,"tumor de células de Leydig con criterios de malignidad",1,"tumor celula Leydig criterio malignidad"
+1960,S0004-06142006000500002-4,404035005,"tumor de células granulares",0.937599,"tumor celula Leydig"
+1961,S0004-06142006000500011-1,30664006,"MEN 1",0.972455,"aorto-cava 1"
+1961,S0004-06142006000500011-1,106190000,alergias,1,alergia
+1961,S0004-06142006000500011-1,722688002,carcinoma,1,carcinoma
+1961,S0004-06142006000500011-1,255035007,"carcinoma adrenal",0.90278,"carcinoma renal"
+1961,S0004-06142006000500011-1,254634000,"carcinoma epidermoide pulmonar",1,"carcinoma epidermoide pulmonar"
+1961,S0004-06142006000500011-1,128668003,"carcinoma sarcomatoide renal",0.933928,"sospechar carcinoma renal"
+1961,S0004-06142006000500011-1,126491004,"carcinoma sebáceo",0.922654,"carcinoma epidermoide"
+1961,S0004-06142006000500011-1,36485005,"enfermedad restrictiva pulmonar",0.959859,"enfermedad pulmonar obstructivo"
+1961,S0004-06142006000500011-1,87433001,"enfisema bilateral",1,"enfisema bilateral"
+1961,S0004-06142006000500011-1,157670007,lesiones,1,lesion
+1961,S0004-06142006000500011-1,6574001,"lesión necrótica",0.942269,"quirurgico lesion"
+1961,S0004-06142006000500011-1,236708007,"litiasis de 1 cm en cáliz inferior de riñón",0.911507,"adenopatia retroperitoneal territorio aorto-cava 1 cm"
+1961,S0004-06142006000500011-1,94360002,"metástasis renal",1,"metastasis renal"
+1961,S0004-06142006000500011-1,94360002+254634000,"metástasis renal izquierdo de carcinoma epidermoide pulmonar",1,"metastasis renal izquierdo carcinoma epidermoide pulmonar"
+1961,S0004-06142006000500011-1,126713003,"neoplasia pulmonar",1,"neoplasia pulmonar"
+1961,S0004-06142006000500011-1,85225000,"quiste paralateronasal",0.90609,"quiste cortical"
+1961,S0004-06142006000500011-1,735471001,"quiste renal complejo",1,"quiste renal complejo"
+1961,S0004-06142006000500011-1,86463003,"quiste renal multilocular",0.959261,"renal versus quiste"
+1961,S0004-06142006000500011-1,27078002,"tumoración sólido-quística",0.97126,"tumoracion solido-quistico"
+1962,S0004-06142006000500012-1,4590003,"adenocarcinoma metastásico",0.92073,"metastasis carcinoma"
+1962,S0004-06142006000500012-1,127101005+23794001,"adenopatías en hilio pulmonar, paratraqueales",0.91525,"nodulo pulmonar microadenopatir paratraqueal"
+1962,S0004-06142006000500012-1,421689001,"alteración del EPR",0.932781,"obnubilacion alteracion"
+1962,S0004-06142006000500012-1,722688002,carcinoma,1,carcinoma
+1962,S0004-06142006000500012-1,255035007,"carcinoma adrenal",0.90278,"carcinoma renal"
+1962,S0004-06142006000500012-1,128668003,"carcinoma sarcomatoide renal",0.939792,"intervencion carcinoma renal"
+1962,S0004-06142006000500012-1,126491004,"carcinoma sebáceo",0.923479,"anatomo-patologico carcinoma"
+1962,S0004-06142006000500012-1,69322001,"cuadro alucinatorio-delirante",0.932576,"cuadro obnubilacion"
+1962,S0004-06142006000500012-1,16834011000119109,"cuadros suboclusivos",0.919298,"cuadro tromboembolismo"
+1962,S0004-06142006000500012-1,301765007,"hematoma en el hemisferio cerebeloso izquierdo",0.9131,"cerebelo hemisferio cerebral derecho"
+1962,S0004-06142006000500012-1,307767006,"infarto cerebral parietal derecho subagudo",0.901607,"lesion cerebelo hemisferio cerebral derecho"
+1962,S0004-06142006000500012-1,157670007,lesiones,1,lesion
+1962,S0004-06142006000500012-1,254915003,"metástasis de carcinoma de células claras",1,"metastasis carcinoma celulo"
+1962,S0004-06142006000500012-1,702392008,"metástasis de carcinoma renal",1,"metastasis carcinoma renal"
+1962,S0004-06142006000500012-1,94360002+254634000,"metástasis renal izquierdo de carcinoma epidermoide pulmonar",0.944185,"cavernoso izquierdo compatible metastasis carcinoma renal"
+1962,S0004-06142006000500012-1,448128007,"trombo tumoral en una vena",0.962343,"trombosis tumoral vena"
+1962,S0004-06142006000500012-1,15842009,"trombo tumoral en vena renal",0.975773,"trombosis tumoral vena renal"
+1962,S0004-06142006000500012-1,59282003,"tromboembolismo pulmonar",1,"tromboembolismo pulmonar"
+1962,S0004-06142006000500012-1,439127006,trombosis,1,trombosis
+1962,S0004-06142006000500012-1,281595001+15842009,"trombosis de la vena renal y vena cava inferior",0.94638,"trombosis tumoral vena renal derecho cava"
+1962,S0004-06142006000500012-1,442078001,"trombosis tumoral",1,"trombosis tumoral"
+1963,S0004-06142006000600009-1,441457006,"Formaciones quísticas",1,"formacion quistico"
+1963,S0004-06142006000600009-1,722688002,carcinoma,1,carcinoma
+1963,S0004-06142006000600009-1,372138000,"carcinoma esofágico",0.920789,"histologico carcinoma"
+1963,S0004-06142006000600009-1,128668003,"carcinoma sarcomatoide renal",1,"carcinoma sarcomatoide renal"
+1963,S0004-06142006000600009-1,126491004,"carcinoma sebáceo",0.922327,"carcinoma sarcomatoide"
+1963,S0004-06142006000600009-1,367643001,"cavidades quísticas",1,"cavidad quistico"
+1963,S0004-06142006000600009-1,157670007,lesiones,1,lesion
+1963,S0004-06142006000600009-1,247441003,"lesiones eritema-escamosas",0.938235,"lesion blanquecin"
+1963,S0004-06142006000600009-1,193901000,"lesión conjuntival de aspecto quístico",0.911234,"quistico aspecto necrotico formacion"
+1963,S0004-06142006000600009-1,254915003,"metástasis de carcinoma de células claras",0.937258,"histologico carcinoma celulo"
+1963,S0004-06142006000600009-1,94360002,"metástasis renal",0.932685,"sarcomatoide renal"
+1963,S0004-06142006000600009-1,21708004,"osteo y condrosarcoma",1,"osteo condrosarcoma"
+1963,S0004-06142006000600009-1,68944005,"proliferación neoplásica meningotelial",0.906038,"neoplasia constituido proliferacion"
+1963,S0004-06142006000600009-1,126880001,"tumor contactaba con la cápsula renal",1,"tumor contactar capsula renal"
+1964,S0004-06142006000600012-1,372244006,MM,1,mm
+1964,S0004-06142006000600012-1,432328008,Neuroblastoma,0.970192,Nefroblastoma
+1964,S0004-06142006000600012-1,72092001,arterioesclerosis,0.965579,arteriolonefroesclerosis
+1964,S0004-06142006000600012-1,69322001,"cuadro alucinatorio-delirante",0.923518,"quimioterapia cuadro"
+1964,S0004-06142006000600012-1,363518003,"infiltración del polo superior y segmento medio renales",0.928286,"heterogeneo renal derecho polo superior"
+1964,S0004-06142006000600012-1,157670007,lesiones,1,lesion
+1964,S0004-06142006000600012-1,125281004,"linfangiectasia focal",0.900914,"infiltracion focal"
+1964,S0004-06142006000600012-1,254828009,"liposarcoma de bajo grado",0.952925,"grado IV"
+1964,S0004-06142006000600012-1,49701002,"masa quística a nivel de escroto",0.912196,"voluminoso masa nivel area"
+1964,S0004-06142006000600012-1,94360002,"metástasis renal",0.912218,"Hilio renal"
+1964,S0004-06142006000600012-1,367645008,"quiste de retención",1,"quiste retencion"
+1964,S0004-06142006000600012-1,85225000,"quiste paralateronasal",0.939352,"arteriolonefroesclerosis quiste"
+1964,S0004-06142006000600012-1,25173007,"recidivas tumorales",1,"recidivo tumoral"
+1964,S0004-06142006000600012-1,281595001+15842009,"trombosis de la vena renal y vena cava inferior",0.985313,"compromiso vena renal vena cava inferior"
+1964,S0004-06142006000600012-1,126880001,"tumor contactaba con la cápsula renal",0.946121,"tumor extender capsula renal"
+1964,S0004-06142006000600012-1,281591005,"tumor paratesticular",0.905398,"tumor extender"
+1965,S0004-06142006000600014-1,126883004,"papiloma invertido de uretra anterior",1,"papiloma invertido uretra"
+1965,S0004-06142006000600014-1,441456002,"tumoraciones polipoideas",0.977076,"tumoracion polipoide"
+1965,S0004-06142006000600014-1,249301002,uretrorragia,1,uretrorragia
+1966,S0004-06142006000600015-1,439470001,FAV,1,FAV
+1966,S0004-06142006000600015-1,233838001,"IAM posterior",0.992269,"FAV posterior"
+1966,S0004-06142006000600015-1,441545004,"Priapismo de alto flujo",1,"Priapismo alto flujo"
+1966,S0004-06142006000600015-1,228272008,"hábitos tóxicos",1,"habito toxico"
+1966,S0004-06142006000600015-1,417746004,politraumatismo,0.93277,traumatismo
+1966,S0004-06142006000600015-1,6273006,priapismo,0.937744,Priapismo
+1967,S0004-06142006000700008-1,399490008,"adenocarcinoma de próstata",0.914891,"leiomioadenomato prostata"
+1967,S0004-06142006000700008-1,75702008,brucelosis,1,brucelosis
+1967,S0004-06142006000700008-1,35015002,"conducto peritoneovaginal",0.904129,"conducto epididimario"
+1967,S0004-06142006000700008-1,414545008,"enfermedad coronaria",0.966637,"aorto-coronario enfermedad"
+1967,S0004-06142006000700008-1,233817007,"enfermedad de los 3 vasos",1,"enfermedad 3 vaso"
+1967,S0004-06142006000700008-1,25341005,"estenosis de los últimos cms de uréter",0.909595,"cm conducto epididimario"
+1967,S0004-06142006000700008-1,26614003,hidrocele,1,hidrocele
+1967,S0004-06142006000700008-1,433234005,"hiperplasia leiomioadenomatosa de próstata",1,"hiperplasia leiomioadenomato prostata"
+1967,S0004-06142006000700008-1,55641003,infarto,1,infarto
+1967,S0004-06142006000700008-1,57054005,"infarto agudo de miocardio",1,"infarto agudo miocardio"
+1967,S0004-06142006000700008-1,1755008,"infarto agudo de miocardio antiguo",1,"infarto agudo miocardio antiguo"
+1967,S0004-06142006000700008-1,157670007,lesiones,1,lesion
+1967,S0004-06142006000700008-1,300492006,"lesión en polo superior de testículo",0.900007,"polo inferior testiculo derecho"
+1967,S0004-06142006000700008-1,141701000119101,"lesión focal esplénica",0.951051,"revelar lesion focal"
+1967,S0004-06142006000700008-1,6574001,"lesión necrótica",0.941758,"lesion macroscopico"
+1967,S0004-06142006000700008-1,300251004,"lesión nodular gingival superior",0.905334,"lesion focal nodular lobulado"
+1967,S0004-06142006000700008-1,29077001,orquitis,1,orquitis
+1967,S0004-06142006000700008-1,50390006,"orquitis idiopática granulomatosa",0.98659,"orquitis idiopatico granulomato"
+1967,S0004-06142006000700008-1,15555002,"pericarditis aguda",0.907655,"agudo miocardio"
+1967,S0004-06142006000700008-1,417746004,politraumatismo,0.93277,traumatismo
+1967,S0004-06142006000700008-1,262921003,"traumatismo testicular",1,"traumatismo testicular"
+1968,S0004-06142006000700011-1,443961001,adenocarcinoma,1,adenocarcinoma
+1968,S0004-06142006000700011-1,99111000119103,"adenocarcinoma intestinal",1,"adenocarcinoma intestinal"
+1968,S0004-06142006000700011-1,35917007,"adenocarcinoma moderadamente diferenciado",1,"adenocarcinoma moderadamente diferenciado"
+1968,S0004-06142006000700011-1,128462008,"infiltración tumoral",1,"infiltracion tumoral"
+1968,S0004-06142006000700011-1,157670007,lesiones,1,lesion
+1968,S0004-06142006000700011-1,247441003,"lesiones eritema-escamosas",0.960875,"lesion eritematos"
+1968,S0004-06142006000700011-1,94579000,"metástasis subcutaneas",0.964281,"metastasis subcutaneo"
+1968,S0004-06142006000700011-1,281591005,"tumor paratesticular",0.919109,"tumor infiltrante"
+1969,S0004-06142006000700012-1,386789004,eosinofilia,1,eosinofilia
+1969,S0004-06142006000700012-1,49701002,"masa quística a nivel de escroto",0.921649,"masa nivel flanco izquierdo"
+1969,S0004-06142006000700012-1,94360002,"metástasis renal",0.933556,"hidatidico renal"
+1969,S0004-06142006000700012-1,307604008,"nefroma meso-blástico quístico",0.954792,"nefroma quistico multilocular"
+1969,S0004-06142006000700012-1,92165001,"nefroma multiquístico",0.958236,"nefroma quistico"
+1969,S0004-06142006000700012-1,74942003,"quiste hidatídico",1,"quiste hidatidico"
+1969,S0004-06142006000700012-1,187144000,"quiste hidatídico renal",1,"quiste hidatidico renal"
+1970,S0004-06142006000700013-1,363346000,Cancer,0.918557,cancer
+1970,S0004-06142006000700013-1,443961001,adenocarcinoma,1,adenocarcinoma
+1970,S0004-06142006000700013-1,35917007,"adenocarcinoma moderadamente diferenciado",1,"adenocarcinoma moderadamente diferenciado"
+1970,S0004-06142006000700013-1,286967008,"apendicitis aguda perforada",0.989849,"apendicitis agudo perforado"
+1970,S0004-06142006000700013-1,300398009,"cicatriz paramedia derecha supra e infraumbilical",1,"cicatriz paramedia derecha supra infraumbilical"
+1970,S0004-06142006000700013-1,363448003,"cáncer prostático",1,"cancer prostatico"
+1970,S0004-06142006000700013-1,157670007,lesiones,1,lesion
+1970,S0004-06142006000700013-1,79131000119100,"lesión del riñón",1,"lesion riñon"
+1970,S0004-06142006000700013-1,300492006,"lesión en polo superior de testículo",0.904673,"ecografico polo superior porcion"
+1970,S0004-06142006000700013-1,5964004,"lesión perirrectal",0.908477,"abdominal lesion"
+1970,S0004-06142006000700013-1,94360002,"metástasis renal",0.921902,"TAC renal"
+1971,S0004-06142006000700014-1,30664006,"MEN 1",0.959025,"1 centimetro"
+1971,S0004-06142006000700014-1,443961001,adenocarcinoma,1,adenocarcinoma
+1971,S0004-06142006000700014-1,4590003,"adenocarcinoma metastásico",0.963055,"metastasis adenocarcinoma"
+1971,S0004-06142006000700014-1,30746006,"adenopatías locorregionales",0.906249,"TAC adenopatia"
+1971,S0004-06142006000700014-1,722688002,carcinoma,1,carcinoma
+1971,S0004-06142006000700014-1,385486001,"complicaciones en el postoperatorio",1,"postoperatorio complicacion"
+1971,S0004-06142006000700014-1,44601009,"endometriosis de colon",0.920715,"colon moderadamente"
+1971,S0004-06142006000700014-1,157670007,lesiones,1,lesion
+1971,S0004-06142006000700014-1,95347000+276320009,"lesiones cutáneo-mucosas necróticas",0.910982,"lesion cronico fibrocicatricial"
+1971,S0004-06142006000700014-1,37657006,"lesiones focales en el tercio inferior del esófago",0.903571,"tercio epididimo derecho lesion nodular"
+1971,S0004-06142006000700014-1,27925004,"lesiones nodulares",1,"lesion nodular"
+1971,S0004-06142006000700014-1,282757006,"lesión en la mejilla derecha",0.947902,"epididimo derecho lesion"
+1971,S0004-06142006000700014-1,92069005,"lesión mixoide",0.906253,"lesion heterogeneo"
+1971,S0004-06142006000700014-1,6574001,"lesión necrótica",0.942269,"quirurgico lesion"
+1971,S0004-06142006000700014-1,300251004,"lesión nodular gingival superior",0.910139,"epididimo derecho lesion nodular"
+1971,S0004-06142006000700014-1,49701002,"masa quística a nivel de escroto",0.914677,"masa nodular doloroso nivel"
+1971,S0004-06142006000700014-1,126838000,"neoplasia de colon",0.92616,"adenocarcinoma colon"
+1971,S0004-06142006000700014-1,197480006+35489007,"síndrome ansioso-depresivo",0.969408,"sindrome depresivo"
+1972,S0004-06142006000900006-1,73795002,"IAM inferior",0.956119,"inferior superior"
+1972,S0004-06142006000900006-1,30664006,"MEN 1",0.933774,"litiasis 1"
+1972,S0004-06142006000900006-1,236708007,"litiasis de 1 cm en cáliz inferior de riñón",0.958875,"objetivo litiasis 1 cm polo inferior"
+1972,S0004-06142006000900006-1,94360002,"metástasis renal",0.911983,"litiasis renal"
+1972,S0004-06142006000900006-1,95576001+371011007,"moderada dilatación pielocalicial y ureteral",1,"moderado dilatacion pielocalicial ureteral"
+1973,S0004-06142006000900008-1,127144009+127154008,"adenomegalias mesentéricas ni retroperitoneales",1,"adenomegalia mesenterico retroperitoneal"
+1973,S0004-06142006000900008-1,197927001,"infecciones urinarias de repetición",1,"infeccion urinario repeticion"
+1973,S0004-06142006000900008-1,19133005,neurofibromatosis,0.9314,neurofibromatosi
+1973,S0004-06142006000900008-1,81669005,"neurofibromatosis difusa de la pared vesical",0.995369,"neurofibromatosi difus pared vesical"
+1973,S0004-06142006000900008-1,36699003,"pared vesical anterior, con abscesificación",0.908934,"pared vesical marcado"
+1974,S0004-06142006000900009-1,34000006,"enfermedad de Crohn",1,"enfermedad Crohn"
+1974,S0004-06142006000900009-1,38106008+50440006,"enfermedad de Crohn ileocólica",0.915753,"enfermedad Crohn metastasico"
+1974,S0004-06142006000900009-1,157670007,lesiones,1,lesion
+1974,S0004-06142006000900009-1,95324001,"lesiones en la piel",1,"lesion piel"
+1974,S0004-06142006000900009-1,247441003,"lesiones eritema-escamosas",0.930063,"extirpacion lesion"
+1974,S0004-06142006000900009-1,429040005,ulceraciones,1,ulceracion
+1975,S0004-06142006000900013-1,441457006,"Formaciones quísticas",1,"formacion quistico"
+1975,S0004-06142006000900013-1,12400006,"carcinoma urotelial papilar, de bajo grado",0.920469,"neoplasia papilar grado III"
+1975,S0004-06142006000900013-1,197927001,"infecciones urinarias de repetición",1,"infeccion urinario repeticion"
+1975,S0004-06142006000900013-1,254828009,"liposarcoma de bajo grado",0.956563,"grado III"
+1975,S0004-06142006000900013-1,38280009,metrorragias,1,metrorragia
+1975,S0004-06142006000900013-1,109995007,mielodisplasia,0.903013,displasia
+1975,S0004-06142006000900013-1,425333006,"procesos mieloproliferativos",0.947882,"proceso neoformativo"
+1975,S0004-06142006000900013-1,299692008,"quiste de la glándula de Bartolino",0.91005,"quiste desmoide tumoracion"
+1975,S0004-06142006000900013-1,441459009,"quiste dermoide",0.964622,"quiste desmoide"
+1975,S0004-06142006000900013-1,74942003,"quiste hidatídico",0.91495,"sospechoso quiste"
+1975,S0004-06142006000900013-1,441456002,"tumoraciones polipoideas",0.914335,"desmoide tumoracion"
+1975,S0004-06142006000900013-1,34351008,"uraco persistente",1,"uraco persistente"
+1975,S0004-06142006000900013-1,118287003,"urotelial de la neoplasia",1,"neoplasia urotelial"
+1976,S0004-06142006000900014-1,441457006,"Formaciones quísticas",0.905701,"formacion litiasico"
+1976,S0004-06142006000900014-1,443961001,adenocarcinoma,1,adenocarcinoma
+1976,S0004-06142006000900014-1,46737006,"anemia normocítica normocrómica",0.962584,"anemio normocitico normocromico"
+1976,S0004-06142006000900014-1,69322001,"cuadro alucinatorio-delirante",0.910918,"urgencia cuadro"
+1976,S0004-06142006000900014-1,94360002,"metástasis renal",0.902938,"Murphy renal"
+1977,S0004-06142007000100011-1,723177002,"Aftosis oral recurrente",0.997566,"Aftosis oral recurrente"
+1977,S0004-06142007000100011-1,30664006,"MEN 1",0.951032,"inyectar 1"
+1977,S0004-06142007000100011-1,372244006,MM,1,mm
+1977,S0004-06142007000100011-1,12295008,"bronquiectasias en ambas bases",0.927802,"pustular base"
+1977,S0004-06142007000100011-1,79740000,"candidiasis oral",0.927643,"Aftosis oral"
+1977,S0004-06142007000100011-1,41225007,"enfermedad de Behcet",1,"enfermedad Behcet"
+1977,S0004-06142007000100011-1,8098009,"enfermedad de transmisión sexual",1,"enfermedad transmision sexual"
+1977,S0004-06142007000100011-1,190563008,"enfermedades transmisibles",0.966865,"enfermedad transmision"
+1977,S0004-06142007000100011-1,157670007,lesiones,1,lesion
+1977,S0004-06142007000100011-1,398870000,"lesiones aftosas orales recurrentes",1,"lesion aftoso oral recurrente"
+1977,S0004-06142007000100011-1,400082007,"lesiones costrosas en la región parieto-occipital",0.925658,"presentar lesion ulceros region"
+1977,S0004-06142007000100011-1,247441003,"lesiones eritema-escamosas",0.928351,"lesion ulceros"
+1977,S0004-06142007000100011-1,1071000119107+724386005,"lesiones orales ni genitales",0.927388,"lesion aftoso oral"
+1977,S0004-06142007000100011-1,95589007,"lesiones ulcerosas en región genital (pene y escroto)",1,"lesion ulceros region genital pene escroto"
+1977,S0004-06142007000100011-1,271765003,"lesión costrosa amarillenta en región cervical",0.912968,"presentar lesion ulceros region genital"
+1977,S0004-06142007000100011-1,92069005,"lesión mixoide",0.938388,"polimorfonuclear lesion"
+1977,S0004-06142007000100011-1,6574001,"lesión necrótica",0.93145,"lesion aftoso"
+1977,S0004-06142007000100011-1,267631003,"pérdida de visión",1,"vision perdida"
+1977,S0004-06142007000100011-1,42134006+105597003,"pérdida y distorsión de la visión",0.93852,"perdida vision artralgio"
+1977,S0004-06142007000100011-1,271760008,"pústula sobre una base eritematosa",1,"pustular base eritematos"
+1977,S0004-06142007000100011-1,95677002,"trastornos en la visión",1,"trastorno vision"
+1977,S0004-06142007000100011-1,724386005,"Úlceras genitales",1,"ulcera genital"
+1977,S0004-06142007000100011-1,255321001,úlceras,1,ulcera
+1978,S0004-06142007000100012-1,15989991000119102,"EA bilaterales",0.917504,"bilateral bifidez"
+1978,S0004-06142007000100012-1,69322001,"cuadro alucinatorio-delirante",0.906736,"estabilizar cuadro"
+1978,S0004-06142007000100012-1,427692005,"flemón subperióstico en pared medial de la órbita derecha",0.915252,"pared espesado tumefaccion escrotal derecho aparente"
+1978,S0004-06142007000100012-1,128561003,granulomas,1,granuloma
+1978,S0004-06142007000100012-1,782520007,"hiperreactividad bronquial secundaria a infección respiratoria",0.925886,"infeccion respiratorio contexto bronquiolitis urocultura"
+1978,S0004-06142007000100012-1,444967008,"hipoplasia maxilar",0.923351,"hipoplasia mandibular"
+1978,S0004-06142007000100012-1,275498002,"infección respiratoria",1,"infeccion respiratorio"
+1978,S0004-06142007000100012-1,400178008,"linfangioma renal bilateral",0.933286,"bilateral bifidez renal"
+1978,S0004-06142007000100012-1,94360002,"metástasis renal",0.914742,"cintilograma renal"
+1978,S0004-06142007000100012-1,95576001+371011007,"moderada dilatación pielocalicial y ureteral",0.930209,"dilatacion ureteral bilateral obstructivo"
+1978,S0004-06142007000100012-1,193699007,"no veía absolutamente nada por ninguno de los dos ojos",0.936255,"localizado ojo"
+1978,S0004-06142007000100012-1,42059000,"ojo derecho existía un desprendimiento bulloso",0.927472,"mandibular coloboma localizado ojo izquierdo"
+1978,S0004-06142007000100012-1,274572000,"pérdida de la visión por ojo derecho",0.921347,"ojo izquierdo tumefaccion escrotal"
+1978,S0004-06142007000100012-1,197811007,"reflujo vésico-ureteral",1,"reflujo vesico-ureteral"
+1978,S0004-06142007000100012-1,36653000,rubeola,1,rubeola
+1978,S0004-06142007000100012-1,81996005,"torsión testicular",0.912657,"destruccion testicular"
+1978,S0004-06142007000100012-1,187192000,toxoplasmosis,1,toxoplasmosis
+1978,S0004-06142007000100012-1,40068008,ureterohidronefrosis,0.996198,uretero-hidronefrosis
+1978,S0004-06142007000100012-1,459055004,"vegetaciones valvulares",0.937827,"fulguracion valvular"
+1979,S0004-06142007000100015-1,79654002,"edema perilesional",0.923105,"adyacente edema"
+1979,S0004-06142007000100015-1,84089009,"hernia de hiato",1,"hernia hiato"
+1979,S0004-06142007000100015-1,68566005,"infecciones del tracto urinario",1,"infeccion tracto urinario"
+1979,S0004-06142007000100015-1,30270006,"infección por Parainfuenzavirus 3",0.931646,"3 episodio infeccion"
+1979,S0004-06142007000100015-1,157670007,lesiones,1,lesion
+1979,S0004-06142007000100015-1,27925004,"lesiones nodulares",1,"lesion nodular"
+1979,S0004-06142007000100015-1,300457003,"lesiones vesicales macroscópicamente",1,"lesion vesical macroscopicamente"
+1979,S0004-06142007000100015-1,193901000,"lesión conjuntival de aspecto quístico",0.918025,"lesion nodular sobreelevado aspecto"
+1979,S0004-06142007000100015-1,6574001,"lesión necrótica",0.934942,"consecutivo lesion"
+1979,S0004-06142007000100015-1,300251004,"lesión nodular gingival superior",0.903401,"hallar lesion nodular sobreelevado"
+1979,S0004-06142007000100015-1,118657002,"lesión nodular sólida en cabeza de epidídimo",0.916777,"lesion nodular sobreelevado aspecto solido"
+1979,S0004-06142007000100015-1,65099004,"mullerianosis vesical",0.922259,"vesical macroscopicamente"
+1979,S0004-06142007000100015-1,15202009,tuberculomas,1,tuberculomas
+1979,S0004-06142007000100015-1,422470007,"tumor de Warthin",0.912841,"tumor urotelial"
+1979,S0004-06142007000100015-1,126879004,"tumor urotelial del tracto urinario superior",1,"tumor urotelial tracto urinario superior"
+1979,S0004-06142007000100015-1,429040005,ulceraciones,1,ulceracion
+1979,S0004-06142007000100015-1,95356008,"ulceración de la mucosa",1,"ulceracion mucos"
+1980,S0004-06142007000200011-1,441457006,"Formaciones quísticas",1,"formacion quistico"
+1980,S0004-06142007000200011-1,262831009,"a nivel suprarrenal una lesión nodular",1,"nivel suprarrenal lesion nodular"
+1980,S0004-06142007000200011-1,443416007,adenoma,1,adenoma
+1980,S0004-06142007000200011-1,255036008,"adenoma de glándula suprarrenal",1,"adenoma glandula suprarrenal"
+1980,S0004-06142007000200011-1,83457000,"bronquiectasias cilíndricas de pared fina en LII",0.933153,"quistico multilocular pared fino blanquecin"
+1980,S0004-06142007000200011-1,302835009,feocromocitoma,1,feocromocitoma
+1980,S0004-06142007000200011-1,157670007,lesiones,1,lesion
+1980,S0004-06142007000200011-1,33431000119109,"lesiones a nivel orofaríngeo",0.939796,"nivel suprarrenal lesion"
+1980,S0004-06142007000200011-1,27925004,"lesiones nodulares",1,"lesion nodular"
+1980,S0004-06142007000200011-1,301863008,"lesión cavitada",0.915964,"lesion solido"
+1980,S0004-06142007000200011-1,127035006,"lesión expansiva a nivel medular desde D1 a D6",0.904327,"observar nivel suprarrenal lesion nodular hipoanecoico"
+1980,S0004-06142007000200011-1,118658007,"lesión quística del cordón espermático",0.925415,"lesion solido degeneracion quistico"
+1980,S0004-06142007000200011-1,126634001,"lesión sólida en hemimandíbula",0.952469,"lesion solido degeneracion"
+1980,S0004-06142007000200011-1,40225001,"linfangioma quístico",1,"linfangioma quistico"
+1980,S0004-06142007000200011-1,93163002,lipoma,1,lipoma
+1980,S0004-06142007000200011-1,189002004,"lipoma en muslo",1,"lipoma muslo"
+1981,S0004-06142007000300011-1,30664006,"MEN 1",0.9356,"fibroso 1"
+1981,S0004-06142007000300011-1,372244006,MM,1,mm
+1981,S0004-06142007000300011-1,283083003,"arañazos en mano",0.938606,"introduccion mano"
+1981,S0004-06142007000300011-1,49436004+698247007,"arritmia completa por fibrilación auricular",0.990095,"arritmio completo fibrilacion auricular"
+1981,S0004-06142007000300011-1,21851000119103,"feocromocitoma maligno",0.954752,"fibrohistiocitoma maligno"
+1981,S0004-06142007000300011-1,254749001,"fibrohistiocitoma pleomorfo maligno",0.969204,"G3 fibrohistiocitoma maligno"
+1981,S0004-06142007000300011-1,75934005,"mal control metabólico",0.903453,"Ketorolaco control"
+1981,S0004-06142007000300011-1,55342001,"masa tumoral",1,"masa tumoral"
+1981,S0004-06142007000300011-1,723076008,mixofibrosarcoma,1,mixofibrosarcoma
+1981,S0004-06142007000300011-1,27849002,mixoliposarcoma,1,mixoliposarcoma
+1981,S0004-06142007000300011-1,423716004,"petequias en la fosa antecubital derecha",0.927302,"oblicuo fosa iliaco derecho"
+1981,S0004-06142007000300011-1,1495041000004108,"proliferación neoplásica",1,"proliferacion neoplasico"
+1981,S0004-06142007000300011-1,68944005,"proliferación neoplásica meningotelial",0.945163,"proliferacion neoplasico hipercelular"
+1981,S0004-06142007000300011-1,254831005,"tumor adiposo",1,"tumor adiposo"
+1982,S0004-06142007000300012-1,702391001,CCR,1,CCR
+1982,S0004-06142007000300012-1,233838001,"IAM posterior",0.995014,"posterior PAAF"
+1982,S0004-06142007000300012-1,127154008,"afectación retroperitoneal",0.937635,"peritumoral afectacion"
+1982,S0004-06142007000300012-1,722688002,carcinoma,1,carcinoma
+1982,S0004-06142007000300012-1,733608000,"carcinoma papilar renal",1,"carcinoma papilar renal"
+1982,S0004-06142007000300012-1,126491004,"carcinoma sebáceo",0.90033,"definitivo carcinoma"
+1982,S0004-06142007000300012-1,385486001,"complicaciones en el postoperatorio",0.902785,"complicacion postrasplante"
+1982,S0004-06142007000300012-1,25341005,"estenosis de los últimos cms de uréter",0.900877,"cm parenquima macroscopicamente"
+1982,S0004-06142007000300012-1,363518003,"infiltración del polo superior y segmento medio renales",0.917914,"vascularizado polo inferior injerto renal"
+1982,S0004-06142007000300012-1,723188008,"insuficiencia renal multifactorial",0.916476,"personal insuficiencia renal"
+1982,S0004-06142007000300012-1,425369003,"insuficiencia renal progresiva",0.90951,"progresivo funcion renal"
+1982,S0004-06142007000300012-1,46177005,"insuficiencia renal terminal",1,"insuficiencia renal terminal"
+1982,S0004-06142007000300012-1,254828009,"liposarcoma de bajo grado",0.95292,"I grado"
+1982,S0004-06142007000300012-1,94360002,"metástasis renal",0.902973,"insuficiencia renal"
+1982,S0004-06142007000300012-1,25173007,"recidivas tumorales",1,"recidivo tumoral"
+1982,S0004-06142007000300012-1,27078002,"tumoración sólido-quística",0.919511,"tumoracion exofitico"
+1983,S0004-06142007000300013-1,47037006,"abstinencia sexual",1,"abstinencia sexual"
+1983,S0004-06142007000300013-1,127199000,"adenopatías inguinales",1,"adenopatia inguinal"
+1983,S0004-06142007000300013-1,187367009,"enfermedades venéreas",0.965636,"enfermedad venerea"
+1983,S0004-06142007000300013-1,157670007,lesiones,1,lesion
+1983,S0004-06142007000300013-1,247441003,"lesiones eritema-escamosas",0.913533,"aparicion lesion"
+1983,S0004-06142007000300013-1,417746004,politraumatismo,0.93277,traumatismo
+1984,S0004-06142007000500011-1,432328008,Neuroblastoma,1,Neuroblastoma
+1984,S0004-06142007000500011-1,44601009,"endometriosis de colon",0.934641,"colon transverso"
+1984,S0004-06142007000500011-1,94185003,"invasión de vía biliar",0.90469,"dilatacion via excretoro"
+1984,S0004-06142007000500011-1,125281004,"linfangiectasia focal",0.906159,"calcificacion focal"
+1984,S0004-06142007000500011-1,253043004,miofibromatosis,1,miofibromatosis
+1984,S0004-06142007000500011-1,56905009,"perforación intestinal",0.931212,"tumoracion intestinal"
+1984,S0004-06142007000500011-1,197659005,"riñón izquierdo atrófico",0.903883,"desplazamiento riñon derecho"
+1984,S0004-06142007000500011-1,27078002,"tumoración sólido-quística",0.901235,"tumoracion UIV"
+1985,S0004-06142007000500014-1,372244006,MM,1,mm
+1985,S0004-06142007000500014-1,722688002,carcinoma,1,carcinoma
+1985,S0004-06142007000500014-1,1156454002,"carcinoma embrionario adulto",0.917036,"maduro carcinoma embrionario"
+1985,S0004-06142007000500014-1,26681001,"focos endometriósicos pélvicos",0.913874,"amarillento calcificacion foco"
+1985,S0004-06142007000500014-1,443675005,"seminoma clásico",1,"seminoma clasico"
+1985,S0004-06142007000500014-1,67830002,teratocarcinomas,1,teratocarcinoma
+1985,S0004-06142007000500014-1,36591000119102,teratoma,1,teratoma
+1985,S0004-06142007000500014-1,55818009,"teratoma maduro",1,"teratoma maduro"
+1986,S0004-06142007000500017-1,308890008,"cuerpos extraños intraabdominales",0.928922,"cuerpo extraño presencia"
+1986,S0004-06142007000500017-1,239107007,nevus,0.910277,nevus
+1986,S0004-06142007000500017-1,63166000,"nevus azul prostático",1,"nevus azul prostatico"
+1987,S0004-06142007000600011-1,421689001,"alteración del EPR",0.90467,"sobreelevado alteracion"
+1987,S0004-06142007000600011-1,146801000119103,"leiomioma vesical",1,"leiomioma vesical"
+1987,S0004-06142007000600011-1,95356008,"ulceración de la mucosa",0.911194,"alteracion mucos"
