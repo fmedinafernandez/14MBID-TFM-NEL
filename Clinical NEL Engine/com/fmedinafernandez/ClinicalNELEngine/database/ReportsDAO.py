@@ -143,13 +143,15 @@ def get_reports(owner, all_owners, idreport, owner2, termino):
         if owner2 != '':
             query += ("AND r.owner='" + owner2 + "' ") 
         if termino != '':
-            query += ("AND tr.termino LIKE '%" + termino + "%' ") 
+            #query += ("AND tr.termino LIKE '%" + termino + "%' ")
+            query += ("AND r.id IN(SELECT DISTINCT report_id FROM terminosclinicos_report WHERE termino LIKE '%" + termino + "%')")
             
 
         query += ("ORDER BY r.id ASC") 
             
         #logs.log(query)
         cursor.execute(query)
+        max_num_registros = 200
         for (id, creation_datetime, last_update_datetime, name, owner, idreport, reportbody) in cursor:
             #logs.log(str(id) +","+name+","+status+","+owner+","+str(idreport)+","+str(reportbody))
             report = {'id':'', 'creation_datetime':'', 'last_update_datetime':'', 'name':'', 'owner':'', 'idreport':'', 'reportbody':''}
@@ -161,6 +163,9 @@ def get_reports(owner, all_owners, idreport, owner2, termino):
             report['idreport']=idreport
             report['reportbody']=reportbody
             lista_reports.append(report)
+            max_num_registros = max_num_registros - 1
+            if max_num_registros == 0:
+                break;
     
         cursor.close()
         cnx.commit()
@@ -195,13 +200,15 @@ def get_reports_and_labels(owner, all_owners, idreport, owner2, termino):
         if owner2 != '':
             query += ("AND r.owner='" + owner2 + "' ") 
         if termino != '':
-            query += ("AND tr.termino LIKE '%" + termino + "%' ") 
+            #query += ("AND tr.termino LIKE '%" + termino + "%' ")
+            query += ("AND r.id IN(SELECT DISTINCT report_id FROM terminosclinicos_report WHERE termino LIKE '%" + termino + "%')")
             
 
         query += ("ORDER BY r.id ASC") 
             
         #logs.log(query)
         cursor.execute(query)
+        max_num_registros = 200
         for (id, creation_datetime, last_update_datetime, name, owner, idreport, reportbody, source_text, idtermino, termino, cosine_similarity, model) in cursor:
             #logs.log(str(id) +","+name+","+status+","+owner+","+str(idreport)+","+str(reportbody))
             report = {'id':'', 'creation_datetime':'', 'last_update_datetime':'', 'name':'', 'owner':'', 'idreport':'', 'reportbody':'', 'source_text':'', 'idtermino':'', 'termino':'', 'cosine_similarity':'', 'model':''}
@@ -218,6 +225,9 @@ def get_reports_and_labels(owner, all_owners, idreport, owner2, termino):
             report['cosine_similarity']=cosine_similarity
             report['model']=model
             lista_reports.append(report)
+            max_num_registros = max_num_registros - 1
+            if max_num_registros == 0:
+                break;
     
         cursor.close()
         cnx.commit()

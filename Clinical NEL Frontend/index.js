@@ -476,13 +476,13 @@ function callEngine_queryreports() {
                 html+="<tr>"
                 html+="<td>" + result.data[i].source_text + "</td>"
                 html+="<td>" + result.data[i].termino + "</td>"
-                html+="<td>" + result.data[i].cosine_similarity * 100 + "%</td>"
+                html+="<td>" + ('' + (result.data[i].cosine_similarity * 100)).substring(0,5) + "%</td>"
                 html+="</tr>"
               }else{
                 html+="<tr>"
                 html+="<td>" + result.data[i].source_text + "</td>"
                 html+="<td>" + result.data[i].termino + "</td>"
-                html+="<td>" + result.data[i].cosine_similarity * 100 + "%</td>"
+                html+="<td>" + ('' + (result.data[i].cosine_similarity * 100)).substring(0,5) + "%</td>"
                 html+="</tr>"
               }
             }
